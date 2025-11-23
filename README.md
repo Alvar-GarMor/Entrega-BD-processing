@@ -1,2 +1,2 @@
 # Entrega-BD-processing
-Entrega de ejercicios sobre distintos dataframes usando Scala y Spark para su procesamiento
+Pequeña colección de jercicios sobre distintos dataframes usando Scala y Spark para su procesamiento.
